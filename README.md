@@ -7,7 +7,7 @@ This repository is associated with the paper:
 
 ## 🔍 Overview
 
-This repository is intended to host the spore dataset associated with the proposed PPBM-YOLO model. The dataset comprises airborne spores from three major wheat fungal diseases, along with five types of interfering spores. It is intended solely for academic and non-commercial research purposes.
+This repository is intended to host the spore dataset associated with the proposed **PPBM-YOLO** model. The dataset comprises airborne spores from three major wheat fungal diseases, along with five types of interfering spores. It is intended solely for academic and non-commercial research purposes.
 
 ## 📂 Dataset Availability
 
@@ -18,14 +18,21 @@ Planned release includes:
 - Raw spore image data
 - Annotated labels (YOLO format)
 - Data partition files (train/val/test splits)
- 
 
 > ✅ **Expected release: After formal publication of the manuscript.**
 
+### 🔒 Placeholder Archive
+
+A placeholder archive is currently provided as a marker for the future dataset:
+
+- [`SporeDataset_UploadAfterPublication.zip`](./SporeDataset_UploadAfterPublication.zip)
+
+This archive contains a `notice.txt` file that explains the dataset will be released after the manuscript is published.
+
+> 📌 **Note:** No actual data is included in the current archive.
 
 ## 📫 Contact
 
 For questions or collaboration inquiries, feel free to contact:  
 **Linsheng Huang** (corresponding author)  
 📧 linsheng0808@ahu.edu.cn
-
